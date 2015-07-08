@@ -1,0 +1,8 @@
+name: 'simple_server'
+version: 0.0.1
+description: A web server built using the shelf package.
+environment:
+  sdk: '>=1.0.0 <2.0.0'
+dependencies:
+  shelf: '^0.6.2'
+  shelf_route: '^0.13.4'
